@@ -1,0 +1,9 @@
+C:\Users\mariadelis21\Documents\Visual Studio 2013\Projects\WebSite2\AppConsumidora_WS\bin\Debug\AppConsumidora_WS.exe.config
+C:\Users\mariadelis21\Documents\Visual Studio 2013\Projects\WebSite2\AppConsumidora_WS\bin\Debug\AppConsumidora_WS.exe
+C:\Users\mariadelis21\Documents\Visual Studio 2013\Projects\WebSite2\AppConsumidora_WS\bin\Debug\AppConsumidora_WS.pdb
+C:\Users\mariadelis21\Documents\Visual Studio 2013\Projects\WebSite2\AppConsumidora_WS\obj\Debug\AppConsumidora_WS.csprojResolveAssemblyReference.cache
+C:\Users\mariadelis21\Documents\Visual Studio 2013\Projects\WebSite2\AppConsumidora_WS\obj\Debug\AppConsumidora_WS.Form1.resources
+C:\Users\mariadelis21\Documents\Visual Studio 2013\Projects\WebSite2\AppConsumidora_WS\obj\Debug\AppConsumidora_WS.Properties.Resources.resources
+C:\Users\mariadelis21\Documents\Visual Studio 2013\Projects\WebSite2\AppConsumidora_WS\obj\Debug\AppConsumidora_WS.csproj.GenerateResource.Cache
+C:\Users\mariadelis21\Documents\Visual Studio 2013\Projects\WebSite2\AppConsumidora_WS\obj\Debug\AppConsumidora_WS.exe
+C:\Users\mariadelis21\Documents\Visual Studio 2013\Projects\WebSite2\AppConsumidora_WS\obj\Debug\AppConsumidora_WS.pdb
